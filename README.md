@@ -44,6 +44,6 @@ In today's fast-paced world, staying on top of tasks and commitments is crucial.
 
 ## Application Name and Package
 
-- **App Name**: TaskYess  s
+- **App Name**: TaskYess  
 - **Package Name**: `com.example.taskyess`
 
